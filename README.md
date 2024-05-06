@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on react js projects
 - 📫 How to reach me : email-vanessatrizah@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm fluent in multile accents
+- ⚡ Fun fact: I'm fluent in multiple accents
 - Currently aiming to finish my ongoing react native project by august
 - 
 
