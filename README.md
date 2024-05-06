@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Vanessa Wambui
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React and Flutter
+- 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : email-vanessatrizah@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm just a girly girl
-- Currently aiming to finish my ongoing flutter and react projects by august
+- Currently aiming to finish my ongoing react native project by august
 - 
 
 <!---
