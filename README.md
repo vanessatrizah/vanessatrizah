@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vanessa Wambui
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning React js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on react js projects
 - 📫 How to reach me : email-vanessatrizah@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm fluent in multile accents
