@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : email-vanessatrizah@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm just a girly girl
+- ⚡ Fun fact: I'm fluent in multile accents
 - Currently aiming to finish my ongoing react native project by august
 - 
 
